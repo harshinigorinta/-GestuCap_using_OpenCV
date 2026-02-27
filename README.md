@@ -31,7 +31,7 @@
   ➤ [Download Tesseract](https://github.com/tesseract-ocr/tesseract)  
   ➤ Add it to your system `PATH` or set the path in the code
 
-### REAL TIME WORKING CODE - (https://github.com/Srinijakk/GestuCap_using_OpenCV)
+### REAL TIME WORKING CODE - (https://github.com/harshinigorinta/GestuCap_using_OpenCV)
 
 ### 📦 Install Required Python Libraries
 
