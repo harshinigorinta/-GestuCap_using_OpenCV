@@ -1,0 +1,8 @@
+opencv-python
+mediapipe
+pyautogui
+pyqt5
+pytesseract
+pyttsx3
+pillow
+pyperclip
